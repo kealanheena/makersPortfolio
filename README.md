@@ -1,19 +1,19 @@
 <h1 align="center">Makers Projects Guide - Kealan Heena</h1>
 
 <div align="center">
-  <a href="#Week-1">Week 1 - Boris Bikes & Airport</a> | 
+  | <a href="#Week-1">Week 1 - Boris Bikes & Airport</a> | 
   <a href="#Week-2">Week 2 - Oystercard & Takeaway</a> | 
-  <a href="#Week-3">Week 3 - Battle & Rock, Paper, Scissors</a>
+  <a href="#Week-3">Week 3 - Battle & Rock, Paper, Scissors</a> |
   <br>
-  <a href="#Week-4">Week 4 - Bookmark Manager & Chitter</a> | 
+  | <a href="#Week-4">Week 4 - Bookmark Manager & Chitter</a> | 
   <a href="#Week-5">Week 5 - Thermostat & Bowling</a> | 
-  <a href="#Week-6">Week 6 - MakersBnB (Group Project)</a>
+  <a href="#Week-6">Week 6 - MakersBnB (Group Project)</a> |
   <br>
-  <a href="#Week-7">Week 7 - Notebook</a> | 
+  | <a href="#Week-7">Week 7 - Notebook</a> | 
   <a href="#Week-8/9">Week 8 & 9 - Acebook (Group Project)</a> | 
-  <a href="#Week-10">Week 10 - Technical Testing Week</a>
+  <a href="#Week-10">Week 10 - Technical Testing Week</a> |
   <br>
-  <a href="#Week-11/12">Week 11 & 12 - Paladin's Path (Final Project)</a>
+  | <a href="#Week-11/12">Week 11 & 12 - Paladin's Path (Final Project)</a> |
   <br>
 </div>
 
