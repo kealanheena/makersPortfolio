@@ -1,5 +1,13 @@
 <h1 align="center">Makers Projects Guide - Kealan Heena</h1>
 
+<a href="https://makers.tech/">
+  <img src="./img/Makers-Logo-Black.png" align="center"/>
+</a>
+
+### What is Makers Academy
+
+Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
+
 <div align="center">
   <a href="#Week-1">Week 1 - Boris Bikes & Airport</a>  <br>
   <a href="#Week-2">Week 2 - Oystercard & Takeaway</a>  <br>
