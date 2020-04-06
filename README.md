@@ -1,14 +1,15 @@
+<div align="center">
+
 <h1 align="center">Makers Projects Guide - Kealan Heena</h1>
 
 <a href="https://makers.tech/">
-  <img src="./img/Makers-Logo-Black.png" align="center"/>
+  <img src="./img/Makers-Logo-Black.png" align="center" width="50%"/>
 </a>
 
 ### What is Makers Academy
 
 Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
 
-<div align="center">
   <a href="#Week-1">Week 1 - Boris Bikes & Airport</a>  <br>
   <a href="#Week-2">Week 2 - Oystercard & Takeaway</a>  <br>
   <a href="#Week-3">Week 3 - Battle & Rock, Paper, Scissors</a>  <br>
@@ -19,7 +20,7 @@ Makers Academy is a sort of school that teaches a group of students (cohort) how
   <a href="#Week-8/9">Week 8 & 9 - Acebook (Group Project)</a>  <br>
   <a href="#Week-10">Week 10 - Technical Testing Week</a>  <br>
   <a href="#Week-11/12">Week 11 & 12 - Paladin's Path (Final Project)</a>  <br>
-</div>
+
 
 
 <a id="Week-1"></a>
@@ -247,3 +248,5 @@ Final project to build an open-world battle game using agile team methodologies.
  
 <a href="https://youtu.be/R4Vh61J5KaI"><div align="center"><img src="https://github.com/BenSheridanEdwards/Makers_Paladins_Path/blob/MVPBattle/Gallery(Gifs)/PaladinsPath-CinematicView-1.gif"/></div></a>
 <p align="center"><i>Click to see the full one-minute cinematic trailer on YouTube</i></p>
+
+</div>
