@@ -1,7 +1,7 @@
 <h1 align="center">Makers Projects Guide - Kealan Heena</h1>
 
 <div align="center">
-  [Week 1 - Boris Bikes & Airport](#Week-1) | 
+  <a href="#Week-1">Week 1 - Boris Bikes & Airport</a> | 
   [Week 2 - Oystercard & Takeaway](#Week-2) | 
   [Week 3 - Battle & Rock, Paper, Scissors](#Week-3)<br>
   [Week 4 - Bookmark Manager & Chitter](#Week-4) | 
@@ -14,7 +14,7 @@
 </div>
 
 
-<a name="Week-1"></a>
+<a id="Week-1"></a>
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
 
 ### Pair Programming Project - Boris Bikes
