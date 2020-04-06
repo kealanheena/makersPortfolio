@@ -1,12 +1,6 @@
 <h1 align="center">Makers Projects Guide - Kealan Heena</h1>
 
-<div align="center">
-
-<a href="https://makers.tech/">
-  <img src="./img/Makers-Logo-Black.png" align="center" width="50%"/>
-</a>
-
-### What is Makers Academy
+### What is [Makers Academy](https://makers.tech/)?
 
 Makers Academy is a sort of school that teaches a group of students (cohort) how to become a world-class developer through ruby, they emphasize pair programming which breeds an environment of camaraderie and gives you a chance to network with new potential developers.
 
@@ -20,8 +14,6 @@ Makers Academy is a sort of school that teaches a group of students (cohort) how
   <a href="#Week-8/9">Week 8 & 9 - Acebook (Group Project)</a>  <br>
   <a href="#Week-10">Week 10 - Technical Testing Week</a>  <br>
   <a href="#Week-11/12">Week 11 & 12 - Paladin's Path (Final Project)</a>  <br>
-
-</div>
 
 <a id="Week-1"></a>
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
