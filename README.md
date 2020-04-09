@@ -179,10 +179,9 @@ Build a clone of AirBnB in an agile development team
   * To work effectively in an agile development team with daily stand-ups and retrospectives
   * To manage my git workflow with git branches, pull requests, code reviews, and merging onto the master branch as a team
   * Give and receive meaningful feedback during each code review
-  
-<br>
 
 ### [Blog For Week 6](https://dev.to/kealanheena/makers-week-6-3ppn)
+
 
 <a name="Week-7"><br></a>
 
