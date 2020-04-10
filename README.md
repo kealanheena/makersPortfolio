@@ -41,6 +41,8 @@ Build an Airport that can manage the takeoff and landing of planes in random wea
   * Reinforcement of fundamentals of Ruby class structure
   * Build a program using TDD
   * Use an effective debugging process to gain visability
+  
+### [Blog For Week 1](https://dev.to/kealanheena/makers-week-1-my-makers-academia-2ofk)
 
 
 <a name="Week-2"><br></a>
@@ -69,6 +71,8 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
   * How to plan my programs structure to separate concerns and ensure single responsibility
   * How to incorporate Ruby gems
   * The importance of testing behaviour, rather than state
+  
+### [Blog For Week 2](https://dev.to/kealanheena/makers-week-2-the-world-is-your-oyster-card-16nk)
 
 
 <a name="Week-3"><br></a>
@@ -97,6 +101,8 @@ Build the classic Rock, Paper, Scissors game!
   * The MVC pattern
   * Testing user interaction and visual output
   * How to build a game that can be played by two players
+  
+### [Blog For Week 3](https://dev.to/kealanheena/makers-week-3-to-be-frank-i-m-having-fun-55m4)
 
 
 <a name="Week-4"><br></a>
@@ -124,6 +130,8 @@ Build a clone of Twitter
 - Skills Learnt: 
   * How to implement a object relational mapper as a database interface
   * Implementing user sign up, sign in, and authentication using bCrypt
+  
+### [Blog For Week 4](https://dev.to/kealanheena/makers-week-4-184e)
 
 
 <a name="Week-5"><br></a>
@@ -151,6 +159,8 @@ Build a game of 10-pin Bowling.
 - Skills Learnt: 
   * How to build a complex game using JavaScript
   * How to effectively encapsulate behaviour and gain visability in JavaScript
+  
+### [Blog For Week 5](https://dev.to/kealanheena/makers-week-5-knn)
 
 
 <a name="Week-6"><br></a>
@@ -169,10 +179,16 @@ Build a clone of AirBnB in an agile development team
   * To work effectively in an agile development team with daily stand-ups and retrospectives
   * To manage my git workflow with git branches, pull requests, code reviews, and merging onto the master branch as a team
   * Give and receive meaningful feedback during each code review
+<<<<<<< HEAD
   
 <br>
   <img src="./img/makers-bnb-collage.png">
 <br>
+=======
+
+### [Blog For Week 6](https://dev.to/kealanheena/makers-week-6-3ppn)
+
+>>>>>>> 6db0d463be24981a414ecbed5e7ce4930115c6f6
 
 <a name="Week-7"><br></a>
 
@@ -189,6 +205,8 @@ Build a notebook app using only pure JavaScript
   * How to build your own testing framework from scratch, inspired by RSpec. 
   * Encapsulation with the constructor and prototype pattern
   * JavaScript asynchronous behaviour, events, and event handlers
+  
+### [Blog For Week 7](https://dev.to/kealanheena/makers-week-7-one-page-to-rule-them-all-1hnp)
 
 
 <a name="Week-8/9"><br></a>
@@ -212,6 +230,10 @@ Build a Facebook clone in an agile development team.
   <img src="./img/acebook-collage.png">
 <br>
 
+### [Blog For Week 8](https://dev.to/kealanheena/makers-week-8-c0o)
+### [Blog For Week 9](https://dev.to/kealanheena/makers-week-8-the-acebook-pt-2-513m)
+
+
 <a name="Week-10"><br></a>
 
 ## Week 10 - Technical Testing Week
@@ -222,6 +244,9 @@ A week to practice coding challenges and prepare for technical interview tests.
 
 #### Coding Challenges: 
 - [Bank - Ruby Challenge (GitHub Respository)](https://github.com/kealanheena/bank_tech_test)
+
+### [Blog For Week 9](https://dev.to/kealanheena/makers-49cp)
+
 
 <a name="Week-11/12"><br></a>
 
@@ -244,3 +269,7 @@ Final project to build an open-world battle game using agile team methodologies.
  
 <a href="https://youtu.be/R4Vh61J5KaI"><div align="center"><img src="https://github.com/BenSheridanEdwards/Makers_Paladins_Path/blob/MVPBattle/Gallery(Gifs)/PaladinsPath-CinematicView-1.gif"/></div></a>
 <p align="center"><i>Click to see the full one-minute cinematic trailer on YouTube</i></p>
+
+
+### [Blog For Week 11](https://dev.to/kealanheena/makers-week-11-the-beginning-of-the-end-35c6)
+### [Blog For Week 12](https://dev.to/kealanheena/makers-week-12-the-end-of-the-end-224m)
