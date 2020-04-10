@@ -171,6 +171,8 @@ Build a clone of AirBnB in an agile development team
   * Give and receive meaningful feedback during each code review
   
 <br>
+  <img src="./img/makers-bnb-collage.png">
+<br>
 
 <a name="Week-7"><br></a>
 
@@ -206,6 +208,8 @@ Build a Facebook clone in an agile development team.
   * To work effective within a team seeking to ensure high test coverage, good distribution of work, and great overall quality of code, whilst maintaining up-to-date documentation
   * How to setup Travis CI and Heroku to deploy code to production once it's merged into the master branch
 
+<br>
+  <img src="./img/acebook-collage.png">
 <br>
 
 <a name="Week-10"><br></a>
