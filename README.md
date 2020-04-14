@@ -184,11 +184,8 @@ Build a clone of AirBnB in an agile development team
 <br>
   <img src="./img/makers-bnb-collage.png">
 <br>
-=======
 
 ### [Blog For Week 6](https://dev.to/kealanheena/makers-week-6-3ppn)
-
->>>>>>> 6db0d463be24981a414ecbed5e7ce4930115c6f6
 
 <a name="Week-7"><br></a>
 
@@ -230,8 +227,7 @@ Build a Facebook clone in an agile development team.
   <img src="./img/acebook-collage.png">
 <br>
 
-### [Blog For Week 8](https://dev.to/kealanheena/makers-week-8-c0o)
-### [Blog For Week 9](https://dev.to/kealanheena/makers-week-8-the-acebook-pt-2-513m)
+### [Blog For Week 8](https://dev.to/kealanheena/makers-week-8-c0o)/ [Blog For Week 9](https://dev.to/kealanheena/makers-week-8-the-acebook-pt-2-513m)
 
 
 <a name="Week-10"><br></a>
@@ -271,5 +267,5 @@ Final project to build an open-world battle game using agile team methodologies.
 <p align="center"><i>Click to see the full one-minute cinematic trailer on YouTube</i></p>
 
 
-### [Blog For Week 11](https://dev.to/kealanheena/makers-week-11-the-beginning-of-the-end-35c6)
-### [Blog For Week 12](https://dev.to/kealanheena/makers-week-12-the-end-of-the-end-224m)
+### [Blog For Week 11](https://dev.to/kealanheena/makers-week-11-the-beginning-of-the-end-35c6)/[Blog For Week 12](https://dev.to/kealanheena/makers-week-12-the-end-of-the-end-224m)
+
